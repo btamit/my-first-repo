@@ -38,3 +38,6 @@
 - header, nav, footer, section, main
 - img tag make sure to use alt attribute
 - if you create a link make it describable
+- form (label)
+- role
+- aria-label
